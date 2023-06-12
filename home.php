@@ -15,7 +15,7 @@
 		<div class="row">
 		<div class="col-md-12">
 			<div class="col-md-6">
-				<label >Select3</label>
+				<label >Select4</label>
                <select onchange="showdata()" id="type" class="form-control">
                <option value="animal">Animal</option>
                <option value="cars" selected="">Car</option>
